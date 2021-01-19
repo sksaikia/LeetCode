@@ -39,7 +39,6 @@ public class LC532 {
                 }
             }
 
-
         }
 
         return count;
