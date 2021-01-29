@@ -3,8 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="4cf5591e-3fb0-466a-ab9b-bfd0f2304faf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LC1201_1300/LC1209.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LC1201_1300/LC1209.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LC501_600/LC532.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LC501_600/LC532.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/LC1_100/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/LC1_100/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/LC501_600/LC503.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/LC501_600/LC503.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LC1_100/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LC1_100/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LC501_600/LC503.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LC501_600/LC503.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LC701_800/LC752.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LC701_800/LC752.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +134,33 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.LC503">
+    <configuration name="LC22Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LC1_100.LC22Reverse" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LC1_100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LC503" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LC501_600.LC503" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LC501_600.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LC71" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LC1_100.LC71" />
       <module name="Leetcode" />
@@ -160,6 +189,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LC503" />
+        <item itemvalue="Application.LC22Reverse" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.LC71" />
       </list>
