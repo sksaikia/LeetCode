@@ -1,9 +1,9 @@
 # LeetCode
 I have been solving Leetcode problems for around a year or so. Suddenly I have developed a passion of writing tutorials for these problems. The following table contains all the problems with their respective solution tutorials. I will try to add more articles to it soon.  
-Follow me on medium - sourav-saikia.medium.com
-Follow me on dev.to - https://dev.to/sksaikia
-Follow me on twitter - https://twitter.com/sourav__saikia
-Connect on Linkedin - www.linkedin.com/in/sourav-kumar-saikia
+Follow me on medium - https://sourav-saikia.medium.com <br/>
+Follow me on dev.to - https://dev.to/sksaikia <br/>
+Follow me on twitter - https://twitter.com/sourav__saikia <br/>
+Connect on Linkedin - www.linkedin.com/in/sourav-kumar-saikia <br/>
 
 
 
