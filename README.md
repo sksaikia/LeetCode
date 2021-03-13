@@ -18,3 +18,6 @@ I have been solving Leetcode problems for around a year or so. Suddenly I have d
 | Intersection of Two Linked Lists  | 160  | https://sourav-saikia.medium.com/march-leetcoding-challenge-2021-day-4-intersection-of-two-linked-lists-a775449b5563 |
 | Average of Levels in Binary Tree  | 637  | https://medium.com/dev-genius/march-leetcoding-challenge-2021-day-5-average-of-levels-in-binary-tree-ac886b2b42e8 |
 | Short Encoding of Words  | 820  | https://sourav-saikia.medium.com/march-leetcoding-challenge-2021-day-6-short-encoding-of-words-7fed4bfae557 |
+| Remove Palindromic Subsequences | 1332 | https://sourav-saikia.medium.com/march-leetcoding-challenge-2021-day-8-remove-palindromic-subsequences-12b037705722 |
+| Integer to Roman | 12 | https://medium.com/leetcode-simplified/march-leetcoding-challenge-2021-day-10-integer-to-roman-76caa87a0e07 |
+| Check If a String Contains All Binary Codes of Size K | 1461  | https://sourav-saikia.medium.com/march-leetcoding-challenge-2021-day-12-check-if-a-string-contains-all-binary-codes-of-size-k-48f1fed4d9b9 |
