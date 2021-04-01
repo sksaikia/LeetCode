@@ -36,6 +36,12 @@ The following table contains all the problems with their respective solution tut
 | Keys and Rooms | 841 | https://medium.com/dev-genius/march-leetcoding-challenge-2021-day-19-keys-and-rooms-d7ad63a89f45 |
 
 
+## April LeetCoding Challenge
+
+| Problem Name  | Problem No | Article Links | 
+| ------------- | ------------- | ------------ |
+| Palindrome Linked List  | 234  | https://sourav-saikia.medium.com/april-leetcoding-challenge-2021-day-1-palindrome-linked-list-e7ee393e1c9b |
+
 ## Miscellaneous
 
 | Article Name  |  Article Links | 
