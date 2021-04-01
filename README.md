@@ -13,6 +13,7 @@ The following table contains all the problems with their respective solution tut
 | ------------- | ------------- | ------------ |
 | Contains Duplicate  | 217 | https://sourav-saikia.medium.com/leetcode-217-contains-duplicate-solution-36f48793bce0 |
 | Jewels and Stones  | 771  | https://sourav-saikia.medium.com/leetcode-771-jewels-and-stones-e35a368fc37  |
+| Design Authentication Manager| 1797 | https://sourav-saikia.medium.com/leetcode-1797-design-authentication-manager-biweekly-contest-48-8ef4d82a220d |
 
 
 ## March LeetCoding Challenge
@@ -28,3 +29,15 @@ The following table contains all the problems with their respective solution tut
 | Remove Palindromic Subsequences | 1332 | https://sourav-saikia.medium.com/march-leetcoding-challenge-2021-day-8-remove-palindromic-subsequences-12b037705722 |
 | Integer to Roman | 12 | https://medium.com/leetcode-simplified/march-leetcoding-challenge-2021-day-10-integer-to-roman-76caa87a0e07 |
 | Check If a String Contains All Binary Codes of Size K | 1461  | https://sourav-saikia.medium.com/march-leetcoding-challenge-2021-day-12-check-if-a-string-contains-all-binary-codes-of-size-k-48f1fed4d9b9 |
+| Design HashMap | 706 | https://levelup.gitconnected.com/leetcode-706-design-hashmap-march-leetcoding-challenge-2021-fdae1a4adbc |
+| Swapping Nodes in a Linked List | 1721 | https://medium.com/leetcode-simplified/march-leetcoding-challenge-2021-day-14-swapping-nodes-in-a-linked-list-a540785c816f |
+| Encode and Decode TinyURL | 535 | https://medium.com/dev-genius/march-leetcoding-challenge-2021-day-15-encode-and-decode-tinyurl-bfeeba44308e |
+| Wiggle Subsequence | 376 | https://levelup.gitconnected.com/march-leetcoding-challenge-2021-day-18-wiggle-subsequence-3c408287325b |
+| Keys and Rooms | 841 | https://medium.com/dev-genius/march-leetcoding-challenge-2021-day-19-keys-and-rooms-d7ad63a89f45 |
+
+
+## Miscellaneous
+
+| Article Name  |  Article Links | 
+| ------------- |  ------------ |
+| Stack Patterns  | https://medium.com/dev-genius/stack-patterns-99d7e4953f62 
